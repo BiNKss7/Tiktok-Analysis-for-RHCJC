@@ -22,7 +22,8 @@ To rerun this analysis on your own machine:
 
 **Clone the repository**
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/BiNKss7/Tiktok-Analysis-for-RHCJC.git
+
 cd your-repo-name
 
 
