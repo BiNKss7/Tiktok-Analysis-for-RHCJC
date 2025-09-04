@@ -1,5 +1,5 @@
 # Tiktok-Analysis-for-RHCJC
-This project was created to encourage the Roy Howard Community Journalism Center (RHCJC) to focus resources on one of the fastest-growing platforms: TikTok.
+This project was created to encourage my company to focus resources on one of the fastest-growing platforms: TikTok.
 As part of this work, I analyzed the performance of other journalism centers on TikTok and used their results as benchmarks to forecast our own potential reach and engagement. The analysis also explores key factors that influence content performance, including:
 
 Posting time (which hours and days drive the most views)
